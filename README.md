@@ -28,3 +28,6 @@ Content Each record in the dataset consists of the following attributes:
 
 the dataset can be found in this link:
 https://www.kaggle.com/datasets/rmisra/news-category-dataset/data
+
+## Research Paper Document
+link: https://docs.google.com/document/d/e/2PACX-1vShzpLR8k-ba3JYUo9vWFOUjF7sqWsdpPvAHXZSpA-BZz7iz7tqx-8M0QZvDglwLUm-FD22XGuPd32R/pub
